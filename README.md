@@ -14,39 +14,45 @@
 <a id="gallery"></a>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/-GALLERY-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=unsplash&logoColor=white" height="60" />
+<img src="https://img.shields.io/badge/-GALLERY-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=unsplash&logoColor=white" height="60" alt="Gallery" />
 </p>
 <br>
 <div align="center">
-<table style="border-collapse: collapse; border: none;">
+<table>
 <tr>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>☕ Cozy Cold</b><br><br>
-<img src="./Assets/showcase_cozy_cold.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_cozy_cold.jpg" width="100%" alt="Cozy Cold showcase"/>
 </td>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>🖤 Dark Amoled</b><br><br>
-<img src="./Assets/showcase_dark_amoled.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_dark_amoled.jpg" width="100%" alt="Dark Amoled showcase"/>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>⚡ High Energy</b><br><br>
-<img src="./Assets/showcase_high_energy.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_high_energy.jpg" width="100%" alt="High Energy showcase"/>
 </td>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>🌸 Moe Waifu</b><br><br>
-<img src="./Assets/showcase_moe_waifu.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_moe_waifu.jpg" width="100%" alt="Moe Waifu showcase"/>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>🚀 Space Vehicles</b><br><br>
-<img src="./Assets/showcase_space_vehicles.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_space_vehicles.jpg" width="100%" alt="Space Vehicles showcase"/>
 </td>
-<td align="center" width="50%" style="padding: 15px; border: none;">
+<td align="center" width="50%">
 <b>🏙️ Urban Landscapes</b><br><br>
-<img src="./Assets/showcase_urban_landscapes.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+<img src="./Assets/showcase_urban_landscapes.jpg" width="100%" alt="Urban Landscapes showcase"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<b>🎨 Dark Catppuccins</b><br><br>
+<img src="./Assets/showcase_dark_catppuccin.png" width="50%" alt="Dark Catppuccins showcase"/>
 </td>
 </tr>
 </table>
