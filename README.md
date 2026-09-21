@@ -76,11 +76,11 @@
 | :--- | :--- |
 | ☕ **`cozy_cold`** | *Comforting, chill, and cold-toned aesthetics.* |
 | 🖤 **`dark_amoled`** | *Deep blacks and high contrast—perfect for OLED screens.* |
-| 🎨 **`dark_catppuccin`** | *Soft, pastel color palette with a cozy yet sophisticated vibe.* |
 | ⚡ **`high_energy`** | *Vibrant, intense, and action-packed visuals.* |
 | 🌸 **`moe_waifu`** | *Beautiful anime & manga-style character arts.* |
 | 🚀 **`space_vehicles`** | *Sci-fi spacecraft, planets, and cosmic exploration.* |
 | 🏙️ **`urban_landscapes`** | *Stunning cityscapes, neon streets, and urban landscapes.* |
+| 🎨 **`dark_catppuccin`** | *Soft, pastel color palette with a cozy yet sophisticated vibe.* |
 
 </div>
 <br/>
